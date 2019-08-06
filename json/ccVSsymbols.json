@@ -1,438 +1,438 @@
 {
-   "ALL ":{
-      "html_entity ":" & #76;&# 101; & #107;",
-      "symbol":"Lek"
-   },
-   "AFN":{
-      "html_entity":"&# 1547; ",
-      "symbol ":"؋ "
-   },
-   "ARS ":{
-      "html_entity ":" & #36;",
-      "symbol":"$"
-   },
-   "AWG":{
-      "html_entity":"&# 402; ",
-      "symbol ":"ƒ "
-   },
-   "AUD ":{
-      "html_entity ":" & #36;",
-      "symbol":"$"
-   },
-   "AZN":{
-      "html_entity":"&# 1084; & #1072;&# 1085; ",
-      "symbol ":"ман "
-   },
-   "BSD ":{
-      "html_entity ":" & #36;",
-      "symbol":"$"
-   },
-   "BBD":{
-      "html_entity":"&# 36; ",
-      "symbol ":"$ "
-   },
-   "BYN ":{
-      "html_entity ":" & #66;&# 114; ",
-      "symbol ":"Br "
-   },
-   "BZD ":{
-      "html_entity ":" & #66;&# 90; & #36;",
-      "symbol":"BZ$"
-   },
-   "BMD":{
-      "html_entity":"&# 36; ",
-      "symbol ":"$ "
-   },
-   "BOB ":{
-      "html_entity ":" & #36;&# 98; ",
-      "symbol ":"$b } "
-   },
-   "BAM ":{
-      "html_entity ":" & #75;&# 77; ",
-      "symbol ":"KM "
-   },
-   "BWP ":{
-      "html_entity ":" & #80;",
-      "symbol":"P"
-   },
-   "BGN":{
-      "html_entity":"&# 1083; & #1074;",
-      "symbol":"лв"
-   },
-   "BRL":{
-      "html_entity":"&# 82; & #36;",
-      "symbol":"R$"
-   },
-   "BND":{
-      "html_entity":"&# 36; ",
-      "symbol ":"$ "
-   },
-   "KHR ":{
-      "html_entity ":" & #6107;",
-      "symbol":"៛"
-   },
-   "CAD":{
-      "html_entity":"&# 36; ",
-      "symbol ":"$ "
-   },
-   "KYD ":{
-      "html_entity ":" & #36;",
-      "symbol":"$"
-   },
-   "CLP":{
-      "html_entity":"&# 36; ",
-      "symbol ":"$ "
-   },
-   "CNY ":{
-      "html_entity ":" & #165;",
-      "symbol":"¥"
-   },
-   "COP":{
-      "html_entity":"&# 36; ",
-      "symbol ":"$ "
-   },
-   "CRC ":{
-      "html_entity ":" & #8353;",
-      "symbol":"₡"
-   },
-   "HRK":{
-      "html_entity":"&# 107; & #110;",
-      "symbol":"kn"
-   },
-   "CUP":{
-      "html_entity":"&# 8369; ",
-      "symbol ":"₱ "
-   },
-   "CZK ":{
-      "html_entity ":" & #75;&# 269; ",
-      "symbol ":"Kč "
-   },
-   "DKK ":{
-      "html_entity ":" & #107;&# 114; ",
-      "symbol ":"kr "
-   },
-   "DOP ":{
-      "html_entity ":" & #82;&# 68; & #36;",
-      "symbol":"RD$"
-   },
-   "XCD":{
-      "html_entity":"&# 36; ",
-      "symbol ":"$ "
-   },
-   "EGP ":{
-      "html_entity ":" & #163;",
-      "symbol":"£"
-   },
-   "SVC":{
-      "html_entity":"&# 36; ",
-      "symbol ":"$ "
-   },
-   "EUR ":{
-      "html_entity ":" & #8364;",
-      "symbol":"€"
-   },
-   "FKP":{
-      "html_entity":"&# 163; ",
-      "symbol ":"£ "
-   },
-   "FJD ":{
-      "html_entity ":" & #36;",
-      "symbol":"$"
-   },
-   "GHS":{
-      "html_entity":"&# 162; ",
-      "symbol ":"¢ "
-   },
-   "GIP ":{
-      "html_entity ":" & #163;",
-      "symbol":"£"
-   },
-   "GTQ":{
-      "html_entity":"&# 81; ",
-      "symbol ":"Q "
-   },
-   "GGP ":{
-      "html_entity ":" & #163;",
-      "symbol":"£"
-   },
-   "GYD":{
-      "html_entity":"&# 36; ",
-      "symbol ":"$ "
-   },
-   "HNL ":{
-      "html_entity ":" & #76;",
-      "symbol":"L"
-   },
-   "HKD":{
-      "html_entity":"&# 36; ",
-      "symbol ":"$ "
-   },
-   "HUF ":{
-      "html_entity ":" & #70;&# 116; ",
-      "symbol ":"Ft "
-   },
-   "ISK ":{
-      "html_entity ":" & #107;&# 114; ",
-      "symbol ":"kr "
-   },
-   "INR ":{
-      "html_entity ":" & #8377;",
-      "symbol":"₹"
-   },
-   "IDR":{
-      "html_entity":"&# 82; & #112;",
-      "symbol":"Rp"
-   },
-   "IRR":{
-      "html_entity":"&# 65020; ",
-      "symbol ":"﷼ "
-   },
-   "IMP ":{
-      "html_entity ":" & #163;",
-      "symbol":"£"
-   },
-   "ILS":{
-      "html_entity":"&# 8362; ",
-      "symbol ":"₪ "
-   },
-   "JMD ":{
-      "html_entity ":" & #74;&# 36; ",
-      "symbol ":"J$ "
-   },
-   "JPY ":{
-      "html_entity ":" & #165;",
-      "symbol":"¥"
-   },
-   "JEP":{
-      "html_entity":"&# 163; ",
-      "symbol ":"£ "
-   },
-   "KZT ":{
-      "html_entity ":" & #1083;&# 1074; ",
-      "symbol ":"лв "
-   },
-   "KPW ":{
-      "html_entity ":" & #8361;",
-      "symbol":"₩"
-   },
-   "KRW":{
-      "html_entity":"&# 8361; ",
-      "symbol ":"₩ "
-   },
-   "KGS ":{
-      "html_entity ":" & #1083;&# 1074; ",
-      "symbol ":"лв "
-   },
-   "LAK ":{
-      "html_entity ":" & #8365;",
-      "symbol":"₭"
-   },
-   "LBP":{
-      "html_entity":"&# 163; ",
-      "symbol ":"£ "
-   },
-   "LRD ":{
-      "html_entity ":" & #36;",
-      "symbol":"$"
-   },
-   "MKD":{
-      "html_entity":"&# 1076; & #1077;&# 1085; ",
-      "symbol ":"ден "
-   },
-   "MYR ":{
-      "html_entity ":" & #82;&# 77; ",
-      "symbol ":"RM "
-   },
-   "MUR ":{
-      "html_entity ":" & #8360;",
-      "symbol":"₨"
-   },
-   "MXN":{
-      "html_entity":"&# 36; ",
-      "symbol ":"$ "
-   },
-   "MNT ":{
-      "html_entity ":" & #8366;",
-      "symbol":"₮"
-   },
-   "MZN":{
-      "html_entity":"&# 77; & #84;",
-      "symbol":"MT"
-   },
-   "NAD":{
-      "html_entity":"&# 36; ",
-      "symbol ":"$ "
-   },
-   "NPR ":{
-      "html_entity ":" & #8360;",
-      "symbol":"₨"
-   },
-   "ANG":{
-      "html_entity":"&# 402; ",
-      "symbol ":"ƒ "
-   },
-   "NZD ":{
-      "html_entity ":" & #36;",
-      "symbol":"$"
-   },
-   "NIO":{
-      "html_entity":"&# 67; & #36;",
-      "symbol":"C$"
-   },
-   "NGN":{
-      "html_entity":"&# 8358; ",
-      "symbol ":"₦ "
-   },
-   "NOK ":{
-      "html_entity ":" & #107;&# 114; ",
-      "symbol ":"kr "
-   },
-   "OMR ":{
-      "html_entity ":" & #65020;",
-      "symbol":"﷼"
-   },
-   "PKR":{
-      "html_entity":"&# 8360; ",
-      "symbol ":"₨ "
-   },
-   "PAB ":{
-      "html_entity ":" & #66;&# 47; & #46;",
-      "symbol":"B/."
-   },
-   "PYG":{
-      "html_entity":"&# 71; & #115;",
-      "symbol":"Gs"
-   },
-   "PEN":{
-      "html_entity":"&# 83; & #47;&# 46; ",
-      "symbol ":"S / . "
-   },
-   "PHP ":{
-      "html_entity ":" & #8369;",
-      "symbol":"₱"
-   },
-   "PLN":{
-      "html_entity":"&# 122; & #322;",
-      "symbol":"zł"
-   },
-   "QAR":{
-      "html_entity":"&# 65020; ",
-      "symbol ":"﷼ "
-   },
-   "RON ":{
-      "html_entity ":" & #108;&# 101; & #105;",
-      "symbol":"lei"
-   },
-   "RUB":{
-      "html_entity":"&# 1088; & #1091;&# 1073; ",
-      "symbol ":"руб "
-   },
-   "SHP ":{
-      "html_entity ":" & #163;",
-      "symbol":"£"
-   },
-   "SAR":{
-      "html_entity":"&# 65020; ",
-      "symbol ":"﷼ "
-   },
-   "RSD ":{
-      "html_entity ":" & #1044;&# 1080; & #1085;&# 46; ",
-      "symbol ":"Дин. "
-   },
-   "SCR ":{
-      "html_entity ":" & #8360;",
-      "symbol":"₨"
-   },
-   "SGD":{
-      "html_entity":"&# 36; ",
-      "symbol ":"$ "
-   },
-   "SBD ":{
-      "html_entity ":" & #36;",
-      "symbol":"$"
-   },
-   "SOS":{
-      "html_entity":"&# 83; ",
-      "symbol ":"S "
-   },
-   "ZAR ":{
-      "html_entity ":" & #82;",
-      "symbol":"R"
-   },
-   "LKR":{
-      "html_entity":"&# 8360; ",
-      "symbol ":"₨ "
-   },
-   "SEK ":{
-      "html_entity ":" & #107;&# 114; ",
-      "symbol ":"kr "
-   },
-   "CHF ":{
-      "html_entity ":" & #67;&# 72; & #70;",
-      "symbol":"CHF"
-   },
-   "SRD":{
-      "html_entity":"&# 36; ",
-      "symbol ":"$ "
-   },
-   "SYP ":{
-      "html_entity ":" & #163;",
-      "symbol":"£"
-   },
-   "TWD":{
-      "html_entity":"&# 78; & #84;&# 36; ",
-      "symbol ":"NT$ "
-   },
-   "THB ":{
-      "html_entity ":" & #3647;",
-      "symbol":"฿"
-   },
-   "TTD":{
-      "html_entity":"&# 84; & #84;&# 36; ",
-      "symbol ":"TT$ "
-   },
-   "TRY ":{
-      "html_entity ":" & #; ",
-      "symbol ":" & #; "
-   },
-   "TVD ":{
-      "html_entity ":" & #36;",
-      "symbol":"$"
-   },
-   "UAH":{
-      "html_entity":"&# 8372; ",
-      "symbol ":"₴ "
-   },
-   "GBP ":{
-      "html_entity ":" & #163;",
-      "symbol":"£"
-   },
-   "USD":{
-      "html_entity":"&# 36; ",
-      "symbol ":"$ "
-   },
-   "UYU ":{
-      "html_entity ":" & #36;&# 85; ",
-      "symbol ":"$U } "
-   },
-   "UZS ":{
-      "html_entity ":" & #1083;&# 1074; ",
-      "symbol ":"лв "
-   },
-   "VEF ":{
-      "html_entity ":" & #66;&# 115; ",
-      "symbol ":"Bs "
-   },
-   "VND ":{
-      "html_entity ":" & #8363;",
-      "symbol":"₫"
-   },
-   "YER":{
-      "html_entity":"&# 65020; ",
-      "symbol ":"﷼ "
-   },
-   "ZWD ":{
-      "html_entity ":" & #90;&# 36; ",
-      "symbol ":"Z$ "
+   "ALL": {
+      "html_entity": "&#76;&#101;&#107;",
+      "symbol": "Lek"
+   },
+   "AFN": {
+      "html_entity": "&#1547;",
+      "symbol": "؋"
+   },
+   "ARS": {
+      "html_entity": "&#36;",
+      "symbol": "$"
+   },
+   "AWG": {
+      "html_entity": "&#402;",
+      "symbol": "ƒ"
+   },
+   "AUD": {
+      "html_entity": "&#36;",
+      "symbol": "$"
+   },
+   "AZN": {
+      "html_entity": "&#1084;&#1072;&#1085;",
+      "symbol": "ман"
+   },
+   "BSD": {
+      "html_entity": "&#36;",
+      "symbol": "$"
+   },
+   "BBD": {
+      "html_entity": "&#36;",
+      "symbol": "$"
+   },
+   "BYN": {
+      "html_entity": "&#66;&#114;",
+      "symbol": "Br"
+   },
+   "BZD": {
+      "html_entity": "&#66;&#90;&#36;",
+      "symbol": "BZ$"
+   },
+   "BMD": {
+      "html_entity": "&#36;",
+      "symbol": "$"
+   },
+   "BOB": {
+      "html_entity": "&#36;&#98;",
+      "symbol": "$b }"
+   },
+   "BAM": {
+      "html_entity": "&#75;&#77;",
+      "symbol": "KM"
+   },
+   "BWP": {
+      "html_entity": "&#80;",
+      "symbol": "P"
+   },
+   "BGN": {
+      "html_entity": "&#1083;&#1074;",
+      "symbol": "лв"
+   },
+   "BRL": {
+      "html_entity": "&#82;&#36;",
+      "symbol": "R$"
+   },
+   "BND": {
+      "html_entity": "&#36;",
+      "symbol": "$"
+   },
+   "KHR": {
+      "html_entity": "&#6107;",
+      "symbol": "៛"
+   },
+   "CAD": {
+      "html_entity": "&#36;",
+      "symbol": "$"
+   },
+   "KYD": {
+      "html_entity": "&#36;",
+      "symbol": "$"
+   },
+   "CLP": {
+      "html_entity": "&#36;",
+      "symbol": "$"
+   },
+   "CNY": {
+      "html_entity": "&#165;",
+      "symbol": "¥"
+   },
+   "COP": {
+      "html_entity": "&#36;",
+      "symbol": "$"
+   },
+   "CRC": {
+      "html_entity": "&#8353;",
+      "symbol": "₡"
+   },
+   "HRK": {
+      "html_entity": "&#107;&#110;",
+      "symbol": "kn"
+   },
+   "CUP": {
+      "html_entity": "&#8369;",
+      "symbol": "₱"
+   },
+   "CZK": {
+      "html_entity": "&#75;&#269;",
+      "symbol": "Kč"
+   },
+   "DKK": {
+      "html_entity": "&#107;&#114;",
+      "symbol": "kr"
+   },
+   "DOP": {
+      "html_entity": "&#82;&#68;&#36;",
+      "symbol": "RD$"
+   },
+   "XCD": {
+      "html_entity": "&#36;",
+      "symbol": "$"
+   },
+   "EGP": {
+      "html_entity": "&#163;",
+      "symbol": "£"
+   },
+   "SVC": {
+      "html_entity": "&#36;",
+      "symbol": "$"
+   },
+   "EUR": {
+      "html_entity": "&#8364;",
+      "symbol": "€"
+   },
+   "FKP": {
+      "html_entity": "&#163;",
+      "symbol": "£"
+   },
+   "FJD": {
+      "html_entity": "&#36;",
+      "symbol": "$"
+   },
+   "GHS": {
+      "html_entity": "&#162;",
+      "symbol": "¢"
+   },
+   "GIP": {
+      "html_entity": "&#163;",
+      "symbol": "£"
+   },
+   "GTQ": {
+      "html_entity": "&#81;",
+      "symbol": "Q"
+   },
+   "GGP": {
+      "html_entity": "&#163;",
+      "symbol": "£"
+   },
+   "GYD": {
+      "html_entity": "&#36;",
+      "symbol": "$"
+   },
+   "HNL": {
+      "html_entity": "&#76;",
+      "symbol": "L"
+   },
+   "HKD": {
+      "html_entity": "&#36;",
+      "symbol": "$"
+   },
+   "HUF": {
+      "html_entity": "&#70;&#116;",
+      "symbol": "Ft"
+   },
+   "ISK": {
+      "html_entity": "&#107;&#114;",
+      "symbol": "kr"
+   },
+   "INR": {
+      "html_entity": "&#8377;",
+      "symbol": "₹"
+   },
+   "IDR": {
+      "html_entity": "&#82;&#112;",
+      "symbol": "Rp"
+   },
+   "IRR": {
+      "html_entity": "&#65020;",
+      "symbol": "﷼"
+   },
+   "IMP": {
+      "html_entity": "&#163;",
+      "symbol": "£"
+   },
+   "ILS": {
+      "html_entity": "&#8362;",
+      "symbol": "₪"
+   },
+   "JMD": {
+      "html_entity": "&#74;&#36;",
+      "symbol": "J$"
+   },
+   "JPY": {
+      "html_entity": "&#165;",
+      "symbol": "¥"
+   },
+   "JEP": {
+      "html_entity": "&#163;",
+      "symbol": "£"
+   },
+   "KZT": {
+      "html_entity": "&#1083;&#1074;",
+      "symbol": "лв"
+   },
+   "KPW": {
+      "html_entity": "&#8361;",
+      "symbol": "₩"
+   },
+   "KRW": {
+      "html_entity": "&#8361;",
+      "symbol": "₩"
+   },
+   "KGS": {
+      "html_entity": "&#1083;&#1074;",
+      "symbol": "лв"
+   },
+   "LAK": {
+      "html_entity": "&#8365;",
+      "symbol": "₭"
+   },
+   "LBP": {
+      "html_entity": "&#163;",
+      "symbol": "£"
+   },
+   "LRD": {
+      "html_entity": "&#36;",
+      "symbol": "$"
+   },
+   "MKD": {
+      "html_entity": "&#1076;&#1077;&#1085;",
+      "symbol": "ден"
+   },
+   "MYR": {
+      "html_entity": "&#82;&#77;",
+      "symbol": "RM"
+   },
+   "MUR": {
+      "html_entity": "&#8360;",
+      "symbol": "₨"
+   },
+   "MXN": {
+      "html_entity": "&#36;",
+      "symbol": "$"
+   },
+   "MNT": {
+      "html_entity": "&#8366;",
+      "symbol": "₮"
+   },
+   "MZN": {
+      "html_entity": "&#77;&#84;",
+      "symbol": "MT"
+   },
+   "NAD": {
+      "html_entity": "&#36;",
+      "symbol": "$"
+   },
+   "NPR": {
+      "html_entity": "&#8360;",
+      "symbol": "₨"
+   },
+   "ANG": {
+      "html_entity": "&#402;",
+      "symbol": "ƒ"
+   },
+   "NZD": {
+      "html_entity": "&#36;",
+      "symbol": "$"
+   },
+   "NIO": {
+      "html_entity": "&#67;&#36;",
+      "symbol": "C$"
+   },
+   "NGN": {
+      "html_entity": "&#8358;",
+      "symbol": "₦"
+   },
+   "NOK": {
+      "html_entity": "&#107;&#114;",
+      "symbol": "kr"
+   },
+   "OMR": {
+      "html_entity": "&#65020;",
+      "symbol": "﷼"
+   },
+   "PKR": {
+      "html_entity": "&#8360;",
+      "symbol": "₨"
+   },
+   "PAB": {
+      "html_entity": "&#66;&#47;&#46;",
+      "symbol": "B/."
+   },
+   "PYG": {
+      "html_entity": "&#71;&#115;",
+      "symbol": "Gs"
+   },
+   "PEN": {
+      "html_entity": "&#83;&#47;&#46;",
+      "symbol": "S/."
+   },
+   "PHP": {
+      "html_entity": "&#8369;",
+      "symbol": "₱"
+   },
+   "PLN": {
+      "html_entity": "&#122;&#322;",
+      "symbol": "zł"
+   },
+   "QAR": {
+      "html_entity": "&#65020;",
+      "symbol": "﷼"
+   },
+   "RON": {
+      "html_entity": "&#108;&#101;&#105;",
+      "symbol": "lei"
+   },
+   "RUB": {
+      "html_entity": "&#1088;&#1091;&#1073;",
+      "symbol": "руб"
+   },
+   "SHP": {
+      "html_entity": "&#163;",
+      "symbol": "£"
+   },
+   "SAR": {
+      "html_entity": "&#65020;",
+      "symbol": "﷼"
+   },
+   "RSD": {
+      "html_entity": "&#1044;&#1080;&#1085;&#46;",
+      "symbol": "Дин."
+   },
+   "SCR": {
+      "html_entity": "&#8360;",
+      "symbol": "₨"
+   },
+   "SGD": {
+      "html_entity": "&#36;",
+      "symbol": "$"
+   },
+   "SBD": {
+      "html_entity": "&#36;",
+      "symbol": "$"
+   },
+   "SOS": {
+      "html_entity": "&#83;",
+      "symbol": "S"
+   },
+   "ZAR": {
+      "html_entity": "&#82;",
+      "symbol": "R"
+   },
+   "LKR": {
+      "html_entity": "&#8360;",
+      "symbol": "₨"
+   },
+   "SEK": {
+      "html_entity": "&#107;&#114;",
+      "symbol": "kr"
+   },
+   "CHF": {
+      "html_entity": "&#67;&#72;&#70;",
+      "symbol": "CHF"
+   },
+   "SRD": {
+      "html_entity": "&#36;",
+      "symbol": "$"
+   },
+   "SYP": {
+      "html_entity": "&#163;",
+      "symbol": "£"
+   },
+   "TWD": {
+      "html_entity": "&#78;&#84;&#36;",
+      "symbol": "NT$"
+   },
+   "THB": {
+      "html_entity": "&#3647;",
+      "symbol": "฿"
+   },
+   "TTD": {
+      "html_entity": "&#84;&#84;&#36;",
+      "symbol": "TT$"
+   },
+   "TRY": {
+      "html_entity": "₺",
+      "symbol": "₺"
+   },
+   "TVD": {
+      "html_entity": "&#36;",
+      "symbol": "$"
+   },
+   "UAH": {
+      "html_entity": "&#8372;",
+      "symbol": "₴"
+   },
+   "GBP": {
+      "html_entity": "&#163;",
+      "symbol": "£"
+   },
+   "USD": {
+      "html_entity": "&#36;",
+      "symbol": "$"
+   },
+   "UYU": {
+      "html_entity": "&#36;&#85;",
+      "symbol": "$U"
+   },
+   "UZS": {
+      "html_entity": "&#1083;&#1074;",
+      "symbol": "лв"
+   },
+   "VEF": {
+      "html_entity": "&#66;&#115;",
+      "symbol": "Bs"
+   },
+   "VND": {
+      "html_entity": "&#8363;",
+      "symbol": "₫"
+   },
+   "YER": {
+      "html_entity": "&#65020;",
+      "symbol": "﷼"
+   },
+   "ZWD": {
+      "html_entity": "&#90;&#36;",
+      "symbol": "Z$"
    }
 }
